@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://vagish.dev/">
+  <a href="https://vagish.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4EA72E&background=001E3D00&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring%20Front-End%20Developer;Try%20to%20be%20a%20better%20developer%20everyday;Chess%20Enthusiast%20%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 - 🌱 Currently learning **Frontend Development** (Meta Frontend Developer Certificate, started May 2026)
 - 📍 Based in **Faridabad, Haryana**
-- 🌐 Portfolio — [vagish.dev](http://vagish.dev/)
+- 🌐 Portfolio — [vagish.dev](https://vagish.dev)
 - 📫 Email — [i.am.vagish@outlook.com](mailto:i.am.vagish@outlook.com)
 - ⚡ Fun fact: I enjoy playing chess ♟️
 
@@ -37,12 +37,10 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📚 Learning Soon
-
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
@@ -65,7 +63,7 @@
   <br><br>
 
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&border_color=4EA72E"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&border_color=4EA72E"
     width="100%"
     alt="Top Languages"
   />
