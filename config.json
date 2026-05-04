@@ -2,20 +2,19 @@
   "name": "Vagish Kumar Raj",
   "username": "vagish-kumar-raj",
   "title": "Aspiring Front-End Developer",
-  "tagline": "Try to be a better developer everyday",
+  "tagline": "Trying to become a better developer every day",
   "location": "Faridabad, Haryana",
   "email": "i.am.vagish@outlook.com",
-  "website": "http://vagish.dev/",
+  "website": "https://vagish.dev",
 
   "about": {
     "working_on": null,
-    "learning": "Frontend Development with Meta Frontend Developer Certificate (Started May 3, 2026)",
-    "fun_fact": "I love chess ♟️"
+    "learning": "Frontend Development (Meta Frontend Developer Certificate, started May 2026)",
+    "fun_fact": "I enjoy playing chess ♟️"
   },
 
   "typing_lines": [
     "Aspiring Front-End Developer",
-    "Learning HTML & CSS",
     "Try to be a better developer everyday",
     "Chess Enthusiast ♟️"
   ],
@@ -38,10 +37,10 @@
   },
 
   "socials": [
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/vagish-kumar-raj", "icon": "linkedin", "color": "0A66C2" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/vagish_kumar_raj", "icon": "instagram", "color": "E4405F" },
+    { "platform": "Website", "url": "https://vagish.dev", "icon": "googlechrome", "color": "4285F4" },
     { "platform": "X", "url": "https://x.com/VagishKumarRaj", "icon": "x", "color": "000000" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/vagish_kumar_raj/", "icon": "instagram", "color": "E4405F" },
-    { "platform": "YouTube", "url": "https://www.youtube.com/@VagishKumarRaj", "icon": "youtube", "color": "FF0000" },
-    { "platform": "Portfolio", "url": "http://vagish.dev/", "icon": "googlechrome", "color": "4285F4" },
     { "platform": "Email", "url": "mailto:i.am.vagish@outlook.com", "icon": "microsoftoutlook", "color": "0078D4" }
   ],
 
@@ -55,7 +54,8 @@
     "gradient_end": "4EA72E",
     "accent": "4EA72E",
     "text": "FFCC66",
-    "secondary_bg": "004491"
+    "secondary_bg": "004491",
+    "stats_domain": "github-readme-stats-sigma-five.vercel.app"
   },
 
   "show": {
