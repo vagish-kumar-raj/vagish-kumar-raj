@@ -1,0 +1,69 @@
+{
+  "name": "Vagish Kumar Raj",
+  "username": "vagish-kumar-raj",
+  "title": "Aspiring Front-End Developer",
+  "tagline": "Try to be a better developer everyday",
+  "location": "Faridabad, Haryana",
+  "email": "i.am.vagish@outlook.com",
+  "website": "http://vagish.dev/",
+
+  "about": {
+    "working_on": null,
+    "learning": "Frontend Development with Meta Frontend Developer Certificate (Started May 3, 2026)",
+    "fun_fact": "I love chess ♟️"
+  },
+
+  "typing_lines": [
+    "Aspiring Front-End Developer",
+    "Learning HTML & CSS",
+    "Try to be a better developer everyday",
+    "Chess Enthusiast ♟️"
+  ],
+
+  "skills": {
+    "languages": [
+      { "name": "HTML5", "icon": "html5", "color": "E34F26" },
+      { "name": "CSS3", "icon": "css3", "color": "1572B6" }
+    ],
+    "frameworks": [],
+    "databases": [],
+    "tools": [
+      { "name": "Git", "icon": "git", "color": "F05032" },
+      { "name": "VS Code", "icon": "visualstudiocode", "color": "007ACC" }
+    ],
+    "learning_soon": [
+      { "name": "JavaScript", "icon": "javascript", "color": "F7DF1E" },
+      { "name": "React", "icon": "react", "color": "61DAFB" }
+    ]
+  },
+
+  "socials": [
+    { "platform": "X", "url": "https://x.com/VagishKumarRaj", "icon": "x", "color": "000000" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/vagish_kumar_raj/", "icon": "instagram", "color": "E4405F" },
+    { "platform": "YouTube", "url": "https://www.youtube.com/@VagishKumarRaj", "icon": "youtube", "color": "FF0000" },
+    { "platform": "Portfolio", "url": "http://vagish.dev/", "icon": "googlechrome", "color": "4285F4" },
+    { "platform": "Email", "url": "mailto:i.am.vagish@outlook.com", "icon": "microsoftoutlook", "color": "0078D4" }
+  ],
+
+  "featured_repos": [
+    "vagish-kumar-raj/my-journey",
+    "vagish-kumar-raj/projects"
+  ],
+
+  "theme": {
+    "gradient_start": "001E3D",
+    "gradient_end": "4EA72E",
+    "accent": "4EA72E",
+    "text": "FFCC66",
+    "secondary_bg": "004491"
+  },
+
+  "show": {
+    "stats_card": true,
+    "streak_card": true,
+    "top_languages": true,
+    "activity_graph": true,
+    "snake_animation": true,
+    "profile_views": true
+  }
+}
