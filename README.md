@@ -91,11 +91,9 @@
 
 <div align="center">
   <a href="https://github.com/vagish-kumar-raj/my-journey">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=my-journey&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&border_color=4EA72E" width="48%" />
-  </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=my-journey&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&border_color=4EA72E&v=1" width="48%" />  </a>
   <a href="https://github.com/vagish-kumar-raj/projects">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=projects&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&border_color=4EA72E" width="48%" />
-  </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=projects&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&border_color=4EA72E&v=1" width="48%" />  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
