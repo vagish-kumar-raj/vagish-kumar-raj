@@ -79,6 +79,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vagish-kumar-raj&theme=algolia&no-frame=true&no-bg=true&column=-1&title_color=4EA72E&text_color=FFCC66" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📌 Featured Repositories
 
 <div align="center">
