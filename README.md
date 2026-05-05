@@ -24,7 +24,8 @@
 
 - 🌱 Currently learning **Frontend Development** (Meta Frontend Developer Certificate, started May 2026)
 - 📍 Based in **Faridabad, Haryana**
-- 🌐 Portfolio — [vagish.dev](https://vagish.dev)
+- 🪪 Web Profile — [my-journey](https://vagish-kumar-raj.github.io/my-journey/)
+- 🌐 Website — [vagish.dev](http://vagish.dev/)
 - 📫 Email — [i.am.vagish@outlook.com](mailto:i.am.vagish@outlook.com)
 - ⚡ Fun fact: I enjoy playing chess ♟️
 
