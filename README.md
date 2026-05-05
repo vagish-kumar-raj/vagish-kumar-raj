@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&width=100%25&height=200&fontAlign=50&fontAlignY=40&fontColor=FFCC66&color=20:001E3D,80:4EA72E&text=Welcome%20to%20my%20profile!" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&width=100%25&height=200&fontAlign=50&fontAlignY=40&fontColor=FFCC66&color=20:004491,80:4EA72E&text=Hello,%20World!" width="100%" />
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vagish-kumar-raj">
@@ -127,6 +127,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&width=100%25&height=200&fontAlign=50&fontAlignY=70&fontColor=FFCC66&color=20:001E3D,80:4EA72E&text=Let's%20connect!&section=footer&reversal=true&animation=fadeIn" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
