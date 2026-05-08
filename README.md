@@ -18,36 +18,44 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-> *Trying to become a better developer every day*
+<blockquote><em>Trying to become a better developer every day</em></blockquote>
 
-- 🌱 Currently learning **Frontend Development** (Meta Frontend Developer Certificate, started May 2026)
-- 📍 Based in **Faridabad, Haryana**
-- 🪪 Web Profile — [my-journey](https://vagish-kumar-raj.github.io/my-journey/)
-- 🌐 Website — [vagish.dev](http://vagish.dev/)
-- 📫 Email — [i.am.vagish@outlook.com](mailto:i.am.vagish@outlook.com)
-- ⚡ Fun fact: I enjoy playing chess ♟️
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
-
-### 💻 Languages
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools & Platforms
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 📚 Learning Soon
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<ul>
+  <li>🌱 Currently learning <strong>Frontend Development</strong> (Meta Frontend Developer Certificate, started May 2026)</li>
+  <li>📍 Based in <strong>Faridabad, Haryana</strong></li>
+  <li>🪪 Web Profile — <a href="https://vagish-kumar-raj.github.io/my-journey/">my-journey</a></li>
+  <li>🌐 Website — <a href="http://vagish.dev/">vagish.dev</a></li>
+  <li>📫 Email — <a href="mailto:i.am.vagish@outlook.com">i.am.vagish@outlook.com</a></li>
+  <li>⚡ Fun fact: I enjoy playing chess ♟️</li>
+</ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack</h2>
+
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<h3>🛠️ Tools & Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+<h3>📚 Learning Soon</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats</h2>
 
 <div align="center">
   <img
@@ -83,7 +91,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vagish-kumar-raj&theme=algolia&no-frame=true&no-bg=true&column=-1&title_color=4EA72E&text_color=FFCC66" alt="GitHub Trophies" />
@@ -91,7 +99,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📌 Featured Repositories
+<h2>📌 Featured Repositories</h2>
 
 <div align="center">
   <a href="https://github.com/vagish-kumar-raj/my-journey">
@@ -102,7 +110,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Game
+<h2>🐍 Contribution Game</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vagish-kumar-raj/vagish-kumar-raj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -110,7 +118,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+<h2>🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vagish-kumar-raj">
