@@ -56,7 +56,7 @@
     alt="GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&border=4EA72E"
+    src="https://github-readme-streak-stats-sigma-five.vercel.app?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&border=4EA72E"
     width="49%"
     alt="GitHub Streak"
   />
