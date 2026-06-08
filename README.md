@@ -51,10 +51,10 @@
 
 
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true"
-    width="90%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="Top Languages"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=1"
+  width="90%"
+  style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
+  alt="Top Languages"
   />
 
   <img
