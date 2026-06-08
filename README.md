@@ -25,7 +25,7 @@
 <ul>
   <li>🌱 Currently learning <strong>Full Stack Development</strong></li>
   <li>📍 Based in <strong>Faridabad, Haryana</strong></li>
-  <li>📫 Email — <a href="mailto:i.am.vagish@outlook.com">i.am.vagish@outlook.com</a></li>
+  <li>📫 Email: <a href="mailto:i.am.vagish@outlook.com">i.am.vagish@outlook.com</a></li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
