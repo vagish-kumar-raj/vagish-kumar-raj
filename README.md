@@ -37,14 +37,14 @@
 
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=vagish-kumar-raj&show_icons=true&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true"
-    width="90%"
+    width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Stats"
   />
 
   <img
     src="https://streak-stats.demolab.com?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true"
-    width="90%"
+    width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Streak"
   />
@@ -52,14 +52,14 @@
 
   <img
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=99"
-  width="90%"
+  width="80%"
   style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
   alt="Top Languages"
   />
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vagish-kumar-raj&bg_color=001E3D&color=FFCC66&line=4EA72E&point=FFCC66&area=true&area_color=4EA72E&hide_border=true"
-    width="90%"
+    width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="Activity Graph"
   />
@@ -76,6 +76,16 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Repositories</h2>
+<a href="https://github.com/vagish-kumar-raj/practice">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=practice&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true"
+    width="50%"
+    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
+    alt="Practice Repo Card"
+  />
+</a>
 
 <h2>🐍 Contribution Game</h2>
 
