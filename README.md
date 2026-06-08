@@ -30,9 +30,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack</h2>
-
-
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats</h2>
 
 <div align="center">
@@ -40,14 +37,14 @@
 
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=vagish-kumar-raj&show_icons=true&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true"
-    width="100%"
+    width="90%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Stats"
   />
 
   <img
     src="https://streak-stats.demolab.com?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true"
-    width="100%"
+    width="90%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Streak"
   />
@@ -55,14 +52,14 @@
 
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true"
-    width="100%"
+    width="90%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="Top Languages"
   />
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vagish-kumar-raj&bg_color=001E3D&color=FFCC66&line=4EA72E&point=FFCC66&area=true&area_color=4EA72E&hide_border=true"
-    width="100%"
+    width="90%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="Activity Graph"
   />
@@ -90,22 +87,11 @@
 
 <h2>🤝 Let's Connect</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vagish-kumar-raj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vagish_kumar_raj">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://vagish.dev">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://x.com/VagishKumarRaj">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:i.am.vagish@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/vagish-kumar-raj/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="10%">
+</a>
+<a href="https://www.instagram.com/vagish_kumar_raj/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="10%">
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
