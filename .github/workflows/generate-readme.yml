@@ -1,0 +1,30 @@
+name: Generate README
+
+on:
+  push:
+    paths:
+      - 'config.json'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate README from config
+        run: node generate.js
+
+      - name: Commit updated README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --cached --quiet || git commit -m "🔄 Auto-update README from config.json"
+          git push
