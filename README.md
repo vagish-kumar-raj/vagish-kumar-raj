@@ -25,7 +25,7 @@
 <ul>
   <li>🌱 Currently learning <strong>Full Stack Development</strong></li>
   <li>📍 Based in <strong>Faridabad, Haryana</strong></li>
-  <li>📫 Email: <a href="mailto:i.am.vagish@outlook.com">i.am.vagish@outlook.com</a></li>
+  <li>📫 Email: <a href="mailto:connect.with.vagish@gmail.com">connect.with.vagish@gmail.com</a></li>
   <li>🌐 Portfolio website: <a href="https://vagish.dev/">vagish.dev</a></li>
 </ul>
 
