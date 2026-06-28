@@ -78,7 +78,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Repositories</h2>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Projects</h2>
 <a href="https://github.com/vagish-kumar-raj/practice">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=portfolio&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=1"
