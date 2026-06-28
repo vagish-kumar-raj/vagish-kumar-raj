@@ -79,20 +79,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Projects</h2>
-<a href="https://github.com/vagish-kumar-raj/practice">
+<a href="https://github.com/vagish-kumar-raj/Portfolio">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=portfolio&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=1"
     width="45%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="Practice Repo Card"
+    alt="Portfolio Website Repo Card"
   />
 </a>
-<a href="https://github.com/vagish-kumar-raj/practice">
+<a href="https://github.com/vagish-kumar-raj/NoTa">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=nota&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=1"
     width="45%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="Practice Repo Card"
+    alt="NoTa Repo Card"
   />
 </a>
 
