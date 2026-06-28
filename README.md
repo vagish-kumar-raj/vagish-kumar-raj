@@ -79,10 +79,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Projects</h2>
+<div align = "center">
 <a href="https://github.com/vagish-kumar-raj/Portfolio">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=Portfolio&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=2"
-    width="45%"
+    width="70%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="Portfolio Website Repo Card"
   />
@@ -90,11 +91,20 @@
 <a href="https://github.com/vagish-kumar-raj/NoTa">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=NoTa&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=2"
-    width="45%"
+    width="70%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="NoTa Repo Card"
   />
 </a>
+<a href="https://github.com/vagish-kumar-raj/Nutrino">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=Nutrino&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=2"
+    width="70%"
+    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
+    alt="Nutrino Repo Card"
+  />
+</a>
+</div>
 
 <h2>🐍 Contribution Game</h2>
 
