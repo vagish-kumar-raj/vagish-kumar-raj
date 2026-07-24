@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=vagish-kumar-raj&label=Profile%20Views&color=4EA72E&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <h2>👨‍💻 About Me</h2>
 
 <blockquote><em>Trying to become a better developer every day</em></blockquote>
@@ -28,8 +26,6 @@
   <li>📫 Email: <a href="mailto:connect.with.vagish@gmail.com">connect.with.vagish@gmail.com</a></li>
   <li>🌐 Portfolio website: <a href="https://vagish.dev/">vagish.dev</a></li>
 </ul>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats</h2>
 
@@ -44,7 +40,7 @@
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true&v=9"
+    src="https://streak-stats.demolab.com/?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true"
     width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Streak"
@@ -68,51 +64,17 @@
 </div>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=vagish-kumar-raj&theme=algolia&no-frame=true&no-bg=true&column=-1" alt="GitHub Trophies" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Projects</h2>
-<div align = "center">
-<a href="https://github.com/vagish-kumar-raj/Portfolio">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=Portfolio&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=2"
-    width="70%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="Portfolio Website Repo Card"
-  />
-</a>
-<a href="https://github.com/vagish-kumar-raj/NoTa">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=NoTa&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=2"
-    width="70%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="NoTa Repo Card"
-  />
-</a>
-<a href="https://github.com/vagish-kumar-raj/Nutrino">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vagish-kumar-raj&repo=Nutrino&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=2"
-    width="70%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="Nutrino Repo Card"
-  />
-</a>
-</div>
-
 <h2>🐍 Contribution Game</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vagish-kumar-raj/vagish-kumar-raj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2>🤝 Let's Connect</h2>
 
@@ -122,5 +84,3 @@
 <a href="https://www.instagram.com/vagish_kumar_raj/">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="10%">
 </a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
