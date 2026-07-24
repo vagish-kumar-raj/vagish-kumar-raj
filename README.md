@@ -40,7 +40,7 @@
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true&v=9"
     width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Streak"
