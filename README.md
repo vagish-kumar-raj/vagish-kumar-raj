@@ -59,7 +59,7 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=vagish-kumar-raj&theme=algolia&no-frame=true&no-bg=true&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=vagish-kumar-raj&theme=juicyfresh&no-frame=true&bg=001E3D&column=4" alt="GitHub Trophies" />
 </p>
 
 <h2>🐍 Contribution Game</h2>
