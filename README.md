@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&width=100%25&height=200&fontAlign=50&fontAlignY=50&fontSize=50&fontColor=4EA72E&color=0:001E3D,100:004491&text=I%20am%20Vagish&animation=fa[...]
+  <img src="https://capsule-render.vercel.app/api?type=venom&width=100%25&height=200&fontAlign=50&fontAlignY=50&fontSize=50&fontColor=4EA72E&color=0:001E3D,100:004491&text=I%20am%20Vagish&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://vagish.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4EA72E&background=001E3D00&center=true&vCenter=true&random=false&width=600&height=1[...]
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4EA72E&background=001E3D00&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring%20Full%20Stack%20Developer;Try%20to%20be%20a%20better%20developer%20everyday;Chess%20Enthusiast%20%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,14 +44,6 @@
     width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Streak"
-  />
-
-
-  <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vagish-kumar-raj&layout=compact&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true[...]
-  width="80%"
-  style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-  alt="Top Languages"
   />
 
   <img
