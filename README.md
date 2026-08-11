@@ -32,21 +32,21 @@
 <div align="center">
 <div style="display:flex; flex-direction:column; gap:8px; max-width:600px;">
 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vagish-kumar-raj&show_icons=true&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=9"
+<img
+    src="https://github-stats-extended.vercel.app/api?username=vagish-kumar-raj&show_icons=true&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=9"
     width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Stats"
   />
 
-  <img
+<img
     src="https://streak-stats.demolab.com/?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true&t=20260724"
     width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
     alt="GitHub Streak"
   />
 
-  <img
+<img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vagish-kumar-raj&bg_color=001E3D&color=FFCC66&line=4EA72E&point=FFCC66&area=true&area_color=4EA72E&hide_border=true&v=9"
     width="80%"
     style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
