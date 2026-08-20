@@ -27,6 +27,10 @@
   <li>🌐 Portfolio website: <a href="https://vagish.dev/">vagish.dev</a></li>
 </ul>
 
+## 🛠️ Tech Stack
+
+<img src="https://badges.aleen42.com/src/html5.svg" alt="HTML5" height="28"> <img src="https://badges.aleen42.com/src/css3.svg" alt="CSS3" height="28"> <img src="https://badges.aleen42.com/src/javascript.svg" alt="JavaScript" height="28">
+
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats</h2>
 
 <div align="center">
@@ -71,8 +75,8 @@
 <h2>🤝 Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/vagish-kumar-raj/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="10%">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="30px">
 </a>
 <a href="https://www.instagram.com/vagish_kumar_raj/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="10%">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="30px">
 </a>
