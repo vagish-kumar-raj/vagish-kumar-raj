@@ -74,9 +74,9 @@
 
 <h2>🤝 Let's Connect</h2>
 
-<a href="https://www.linkedin.com/in/vagish-kumar-raj/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50px">
+<a href="https://www.linkedin.com/in/vagish-kumar-raj/" style="text-decoration: none;">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="80px">
 </a>
-<a href="https://www.instagram.com/vagish_kumar_raj/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50px">
+<a href="https://www.instagram.com/vagish_kumar_raj/" style="text-decoration: none;">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="80px">
 </a>
