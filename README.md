@@ -31,35 +31,6 @@
 
 <img src="https://badges.aleen42.com/src/html5.svg" alt="HTML5" height="28"> <img src="https://badges.aleen42.com/src/css3.svg" alt="CSS3" height="28"> <img src="https://badges.aleen42.com/src/javascript.svg" alt="JavaScript" height="28">
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats</h2>
-
-<div align="center">
-<div style="display:flex; flex-direction:column; gap:8px; max-width:600px;">
-
-<img
-    src="https://github-stats-extended.vercel.app/api?username=vagish-kumar-raj&show_icons=true&bg_color=001E3D&title_color=4EA72E&text_color=FFCC66&icon_color=4EA72E&hide_border=true&v=9"
-    width="80%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="GitHub Stats"
-  />
-
-<img
-    src="https://streak-stats.demolab.com/?user=vagish-kumar-raj&background=001E3D&ring=4EA72E&fire=FFCC66&currStreakLabel=4EA72E&sideLabels=FFCC66&currStreakNum=FFCC66&sideNums=FFCC66&dates=4EA72E&hide_border=true&t=20260724&v=11"
-    width="80%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="GitHub Streak"
-  />
-
-<img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vagish-kumar-raj&bg_color=001E3D&color=FFCC66&line=4EA72E&point=FFCC66&area=true&area_color=4EA72E&hide_border=true&v=9"
-    width="80%"
-    style="border: 1.5px solid #4EA72E; border-radius: 8px; display:block;"
-    alt="Activity Graph"
-  />
-
-</div>
-</div>
-
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
