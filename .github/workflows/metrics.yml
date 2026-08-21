@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Schedule daily updates (at midnight UTC)
+  schedule: [{cron: "0 0 * * *"}]
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # Run on push to main branch
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub personal access token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: vagish-kumar-raj
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: UTC
+          plugin_isocalendar: yes
+          plugin_languages: yes
